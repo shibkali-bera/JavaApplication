@@ -1,2 +1,2 @@
-# JavaApplication
-A sample java Application
+# SampleWebApp
+A Sample Web Application with Snoop Servlet for Tomcat, Weblogic, Jboss, Websphere
